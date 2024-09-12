@@ -1,0 +1,144 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #000000;
+    background-color: #f4f4f4;
+}
+
+
+header {
+    background: #3ef700;
+    color: #070707;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+header img {
+    border-radius: 50%;
+}
+
+.nav {
+    background: #007bff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1.1em;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
+
+
+main {
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+
+ul, ol {
+    margin: 10px 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+}
+
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+blockquote {
+    font-style: italic;
+    border-left: 4px solid #007bff;
+    padding-left: 10px;
+    margin: 20px 0;
+    color: #555;
+}
+
+
+.projects-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.projects-table th, 
+.projects-table td {
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+.projects-table th {
+    background: #007bff;
+    color: #fff;
+    font-weight: bold;
+}
+
+.projects-table tbody tr:hover {
+    background: #f1f1f1;
+}
+
+.projects-table img.project-image {
+    max-width: 100px;
+    height: auto;
+    border-radius: 4px;
+}
+
+header h1, .nav a {
+    text-align: center;
+    margin: 20px;
+}
+
+.nav {
+    background: #007bff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1.1em;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}

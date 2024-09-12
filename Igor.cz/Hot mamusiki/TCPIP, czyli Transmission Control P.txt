@@ -1,0 +1,5 @@
+"Protokół TCP/IP"
+Otwartość i niezależność od specyfikacji sprzętowo-programowej systemów komputerowych;
+Możliwość integracji wielu różnych rodzajów sieci komputerowych;
+Wspólny schemat adresacji pozwalający na jednoznaczne zaadresowanie każdego użytkownika;
+Istnienie standardowych protokołów warstw wyższych.
